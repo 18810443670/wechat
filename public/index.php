@@ -19,8 +19,6 @@
 |
 */
 
-phpinfo();die;
-
 require __DIR__.'/../bootstrap/autoload.php';
 
 /*
